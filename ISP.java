@@ -1,6 +1,7 @@
 /**
  * Title: Java program demonstrating Interface Segregation Principle (ISP)
  * Author: [Name - Suvro Dev Mojumder , Student ID - 220237 , Discipline - CSE , Khulna University ]
+ */
 
 /**
  * Interface representing functionalities related to printing tasks.
